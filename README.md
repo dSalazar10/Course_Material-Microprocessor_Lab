@@ -1,5 +1,6 @@
 # CMPE344
 Microprocessor Lab
+Primary Project Repo: https://github.com/tmartin293/Musical_Instrument_Classification
 
 root@beaglebone:/opt/scripts/tools# ./version.sh
 git:/opt/scripts/:[1aa73453b2c980b75e31e83dab7dd8b6696f10c7]
